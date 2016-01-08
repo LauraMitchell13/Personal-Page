@@ -108,7 +108,7 @@ a;link {
 
 /*visited link */
 a:link{
-    color:darkblue;
+    color:darkmagenta;
     text-transform; uppercase; 
     }
     
@@ -125,7 +125,7 @@ nav {
 nav ul {
     text-align: center; 
     text-transform: uppercase;
-    color: darkred;
+    color: rebeccapurple;
     letter-spacing: 2px;
     }
     
