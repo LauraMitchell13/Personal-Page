@@ -90,3 +90,54 @@ img.avatar {
 footer {
   margin-top: 30px;
 }
+
+    /*-----------------NAV-------------*/
+
+
+
+a:link { 
+    text-decoration:none;
+    letter-spacing: 2px;
+    text-transform:uppercase;
+}
+
+/* unvisited link */
+a;link {
+    color: darkblue;
+    text-transform: uppercase;}
+
+/*visited link */
+a:link{
+    color:darkblue;
+    text-transform; uppercase; 
+    }
+    
+    
+nav {
+        border-top: 1px solid #333;
+        border-bottom: 1px solid #333;
+    padding-bottom: 0.7em;
+    padding-top: 0.7em;
+    width 100%;
+}
+    
+    
+nav ul {
+    text-align: center; 
+    text-transform: uppercase;
+    color: darkred;
+    letter-spacing: 2px;
+    }
+    
+
+    nav ul li {
+	display: inline;
+	margin: 2px;
+	text-align: center;
+
+	}
+    
+    li { display: inline;
+    
+    }
+
